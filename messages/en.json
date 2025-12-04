@@ -35,7 +35,7 @@
     "welcome": "WELCOME",
     "edelweiss-text": "The professional chefs of our restaurant prepare Asian and European meals according to traditional recipes and bring them to you every day.",
     "time": "Timetable",
-    "time-text": "In addition to the main menu, an international buffet breakfast is served on weekdays from 11:00 am to 2:00 pm with live band performances.",
+    "time-text": "In addition to the main menu, an international buffet breakfast is served on weekdays from 14:00 am to 04:00 pm with live band performances.",
     "order": "Event Reception",
     "order-header": "Event Reception",
     "order-text": "Edelweiss restaurant organizes receptions, weddings, and all kinds of celebrations with a capacity of 150-200 people at a high professional level, so we are sure that you will choose our restaurant.",
@@ -155,10 +155,9 @@
         {
           "label": "Address: Ulaanbaatar, Bayangol District 4th Street, Peace Avenue-93, Taij Palace"
         },
-        { "label": "Phone: +976 7777-4777" },
-        { "label": "Reception: +976 9446-5077" },
-        { "label": "Edelweiss Restaurant: 9972-4702" },
-        { "label": "Taij Hot Pot Restaurant: 9972-4720" }
+        { "label": "Phone: +976 7777-4077" },
+        { "label": "Reception: +976 9448-5077" },
+        { "label": "Edelweiss Restaurant: +976 8996-0309" }
       ]
     }
   ],

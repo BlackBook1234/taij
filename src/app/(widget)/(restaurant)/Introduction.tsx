@@ -47,7 +47,7 @@ const RestaurantIntroduction: FC<RestaurantIntroductionProps> = ({
         <ul className="space-y-10 mt-16">
           <li className="space-y-4">
             <Badge name={message("time")} />
-            <span className="block text-xl font-semibold">11:00 - 23:00</span>
+            <span className="block text-xl font-semibold">14:00 - 04:00</span>
             <span className="block mt-5 text-neutral-500 dark:text-neutral-400">
               {message("time-text")}
             </span>

@@ -35,7 +35,7 @@ const PageAbout: FC<PageAboutProps> = ({}) => {
             </span>
             <span className="flex items-center mt-1">
               <PhoneIcon className="h-5 w-5 mr-2 text-neutral-600 dark:text-neutral-400" />
-              {message("phone")}:+976 77774777
+              {message("phone")}:+976 7777-4077
             </span>
             <span className="flex items-center mt-1">
               <MapIcon className="h-5 w-5 mr-2 text-neutral-600 dark:text-neutral-400" />
